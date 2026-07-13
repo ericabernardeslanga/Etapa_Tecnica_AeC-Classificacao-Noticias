@@ -1,8 +1,8 @@
-\# Desafio Técnico – Classificação de Notícias
+\ Desafio Técnico – Classificação de Notícias
 
 
 
-\## 1. Objetivo
+\1. Objetivo
 
 
 
@@ -10,7 +10,7 @@ Desenvolver um modelo de Machine Learning capaz de classificar notícias em suas
 
 
 
-\## 2. Estrutura do Projeto
+\2. Estrutura do Projeto
 
 
 
@@ -24,7 +24,7 @@ Desenvolver um modelo de Machine Learning capaz de classificar notícias em suas
 
 
 
-\## 3. Tecnologias Utilizadas
+\3. Tecnologias Utilizadas
 
 
 
@@ -46,7 +46,7 @@ Desenvolver um modelo de Machine Learning capaz de classificar notícias em suas
 
 
 
-\## 4. Como Executar
+\4. Como Executar
 
 
 
@@ -76,7 +76,7 @@ uvicorn main:app --reload
 
 
 
-\## 5. Como Testar
+\5. Como Testar
 
 
 
@@ -112,12 +112,7 @@ Exemplo de entrada:
 
 
 
-\## 6. Resultados do Modelo
-
-
-
-\## 6. Resultados do Modelo
-
+\6. Resultados do Modelo
 
 
 O modelo foi avaliado em uma base de teste contendo 33.408 notícias distribuídas em múltiplas categorias.
@@ -162,7 +157,7 @@ As métricas detalhadas por categoria, matriz de confusão e análises complemen
 
 
 
-\## 7. Autor
+\7. Autor
 
 
 
