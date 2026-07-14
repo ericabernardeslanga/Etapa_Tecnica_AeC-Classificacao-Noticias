@@ -62,7 +62,7 @@ Exemplo de entrada:
   "text": "Novo projeto de educação será lançado pelo governo"
 }
 
-
+---
 
 ## **6. Resultados do Modelo**
 
