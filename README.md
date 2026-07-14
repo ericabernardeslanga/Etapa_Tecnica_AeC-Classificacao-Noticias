@@ -43,8 +43,6 @@ uvicorn main:app --reload
 
 ## **5. Como Testar**
 
-
-
 Após iniciar a API, acesse a documentação interativa:
 
 
@@ -53,16 +51,6 @@ http://127.0.0.1:8000/docs
 
 Utilize o endpoint `POST /predict` para enviar uma notícia e obter a classificação prevista pelo modelo.
 
-
-Exemplo de entrada:
-
-
-```json
-{
-  "text": "Novo projeto de educação será lançado pelo governo"
-}
-
----
 
 ## **6. Resultados do Modelo**
 
@@ -89,7 +77,7 @@ O modelo foi avaliado em uma base de teste contendo **33.408 notícias** distrib
 
 As métricas detalhadas por categoria, matriz de confusão e análises complementares podem ser consultadas no notebook de treinamento disponível neste repositório.
 
----
+
 
 ## **7. Autor**
 
